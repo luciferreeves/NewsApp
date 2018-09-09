@@ -2,7 +2,7 @@
 
 A News Displaying app using Ionic Framework 3.
 
-## Screeenshots:
+## Screeenshots (on iPhone 6) [Experience on Android or iOS will be same]:
 
 | ![5b949be9b0406](https://i.loli.net/2018/09/09/5b949be9b0406.png) | ![5b949c42d2959](https://i.loli.net/2018/09/09/5b949c42d2959.png) | ![5b949c78f1b61](https://i.loli.net/2018/09/09/5b949c78f1b61.png) |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
